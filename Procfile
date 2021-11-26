@@ -1,1 +1,1 @@
-worker : npm i fake-useragent && npm start
+worker : npm update && @adiwajshing/baileys@latest && npm start
